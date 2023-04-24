@@ -1,4 +1,4 @@
-# COP4500 Numerical Calculus Assignment 3 
+# COT4500 Numerical Calculus Assignment 3 
 This application was built with `Python` using the `NumPy` library. 
 ## Purpose 
 This repository is here to demonstrate the numerical methods needed to
